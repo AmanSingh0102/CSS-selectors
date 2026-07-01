@@ -1,0 +1,36 @@
+body {
+    background-color: salmon;
+}
+head {
+    color: darkblue;
+}
+#bglime {
+    color: red;
+}
+h2 {
+    color: darkblue;
+    
+}
+h4 {
+    color: darkblue;
+}
+p{
+    color: white;
+}
+#para {
+    color: green;
+}
+span{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+ 
+ol li{
+    color: white;
+}
+ul li {
+    color: black;
+}
